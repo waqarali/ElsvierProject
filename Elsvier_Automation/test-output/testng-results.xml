@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T16:22:46 GMT" name="Shopping Cart" finished-at="2022-01-17T16:23:02 GMT" duration-ms="16372">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T16:22:46 GMT" name="Adding Shopping to Cart Test" finished-at="2022-01-17T16:23:02 GMT" duration-ms="16372">
+      <class name="testcases.ShoppingCartProceed">
+        <test-method is-config="true" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:testcases.ShoppingCartProceed@957e06]" started-at="2022-01-17T16:22:46 GMT" name="beforeTest" finished-at="2022-01-17T16:22:46 GMT" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b4c1d96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:testcases.ShoppingCartProceed@957e06]" started-at="2022-01-17T16:22:46 GMT" name="beforeMethod" finished-at="2022-01-17T16:22:46 GMT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b4c1d96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addShopingCart(org.testng.ITestContext)[pri:0, instance:testcases.ShoppingCartProceed@957e06]" started-at="2022-01-17T16:22:46 GMT" name="addShopingCart" finished-at="2022-01-17T16:23:02 GMT" duration-ms="15884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b4c1d96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addShopingCart -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ShoppingCartProceed@957e06]" started-at="2022-01-17T16:23:02 GMT" name="quit" finished-at="2022-01-17T16:23:02 GMT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.ShoppingCartProceed -->
+    </test> <!-- Adding Shopping to Cart Test -->
+  </suite> <!-- Shopping Cart -->
+</testng-results>
